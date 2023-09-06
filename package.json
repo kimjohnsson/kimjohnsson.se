@@ -1,0 +1,11 @@
+{
+  "name": "kimjohnsson.se",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:kimjohnsson/kimjohnsson.se.git",
+  "author": "Kim Johnsson <kim.johnsson@telia.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "cd frontend && yarn dev"
+  }
+}
