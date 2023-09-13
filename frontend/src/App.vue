@@ -3,7 +3,7 @@ import Start from '@/views/Start.vue';
 </script>
 
 <template>
-  <Start msg="Vite + Vue" />
+  <Start />
 </template>
 
 <style scoped></style>
