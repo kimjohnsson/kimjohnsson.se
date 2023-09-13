@@ -6,6 +6,8 @@
   "author": "Kim Johnsson <kim.johnsson@telia.com>",
   "license": "MIT",
   "scripts": {
-    "dev": "cd frontend && yarn dev"
+    "dev": "cd frontend && yarn dev",
+    "build": "cd frontend && yarn build",
+    "preview": "cd frontend && yarn preview"
   }
 }
