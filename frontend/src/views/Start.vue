@@ -1,7 +1,9 @@
-<script setup lang="ts"></script>
-
 <template>
-  <h1>Kim Johnsson</h1>
+  <AppCover />
 </template>
+
+<script setup lang="ts">
+import AppCover from '@/components/cover/Cover.vue';
+</script>
 
 <style scoped></style>
