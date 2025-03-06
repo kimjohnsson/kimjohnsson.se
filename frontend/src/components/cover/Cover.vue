@@ -2,13 +2,18 @@
   <div class="cover">
     <div class="content">
       <h1 class="name">Kim Johnsson</h1>
-      <h1 class="title">Developer</h1>
+      <div class="title">
+        <h1>Developer</h1>
+        <Socials />
+      </div>
     </div>
     <img class="chevron" src="/icons/chevron-down.svg" />
   </div>
 </template>
 
-<script setup lang="ts"></script>
+<script setup lang="ts">
+import Socials from '@/components/Socials.vue';
+</script>
 
 <style scoped>
 .cover {
