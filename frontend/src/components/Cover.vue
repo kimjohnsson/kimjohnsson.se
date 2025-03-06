@@ -4,7 +4,7 @@
       <h1 class="name">Kim Johnsson</h1>
       <div class="title">
         <h1>Developer</h1>
-        <Socials />
+        <AppSocials />
       </div>
     </div>
     <img class="chevron" src="/icons/chevron-down.svg" />
@@ -12,7 +12,7 @@
 </template>
 
 <script setup lang="ts">
-import Socials from '@/components/Socials.vue';
+import AppSocials from '@/components/Socials.vue';
 </script>
 
 <style scoped>

@@ -3,7 +3,7 @@
 </template>
 
 <script setup lang="ts">
-import AppCover from '@/components/cover/Cover.vue';
+import AppCover from '@/components/Cover.vue';
 </script>
 
 <style scoped></style>
