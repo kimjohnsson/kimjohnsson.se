@@ -7,6 +7,7 @@
         <AppSocials />
       </div>
     </div>
+    <img class="chevron" src="/icons/chevron-down.svg" />
   </div>
 </template>
 
