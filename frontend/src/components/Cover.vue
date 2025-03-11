@@ -17,6 +17,7 @@ import AppSocials from '@/components/Socials.vue';
 
 <style scoped>
 .cover {
+  color: #fff;
   height: 100vh;
   display: flex;
   justify-content: center;
@@ -44,11 +45,6 @@ import AppSocials from '@/components/Socials.vue';
   flex: 1;
   justify-content: space-around;
   flex-direction: column;
-}
-
-h1 {
-  font-size: 5em;
-  text-transform: uppercase;
 }
 
 .name {
@@ -88,10 +84,6 @@ h1 {
 @media (max-width: 700px) {
   .content {
     justify-content: center;
-  }
-
-  h1 {
-    font-size: 3em;
   }
 
   .name,

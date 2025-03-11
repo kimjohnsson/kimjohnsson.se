@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+
 * {
   margin: 0;
   padding: 0;
@@ -13,14 +15,13 @@
   scroll-behavior: smooth;
   line-height: 1.5;
   font-weight: 400;
-  color: #fff;
+  color: #000;
 }
 
 body {
   height: 100vh;
   display: flex;
   flex-direction: column;
-  background-color: #000;
 }
 
 #app {
@@ -30,14 +31,58 @@ body {
 }
 
 main {
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  max-width: 1200px;
   padding: 3em;
+  margin: auto;
+}
+
+h1, h2, h3, h4, h5, h6{
+  text-transform: uppercase;
+  line-height: 1.1;
+  font-family: system-ui, Avenir, Helvetica, Arial, sans-serif;
 }
 
 h1 {
-  font-size: 3.2em;
-  line-height: 1.1;
+  font-size: 5em;
+}
+
+h2 {
+  font-size: 4em;
+}
+
+h3 {
+  font-size: 3em;
+}
+
+h4 {
+  font-size: 1.5em;
+}
+
+h5 {
+  font-size: 0.8em;
+}
+
+h6 {
+  font-size: 0.5em;
 }
 
 p {
-  display: inline;
+  display: inline-block;
+  font-size: 18px;
+  line-height: 1.6;
+  font-weight: 300;
+}
+
+
+@media (max-width: 700px) {
+  h1 {
+    font-size: 3em;
+  }
+
+  h3 {
+    font-size: 2.5em;
+  }
 }

@@ -10,5 +10,11 @@
 footer {
   padding: 2em;
   text-align: center;
+  color: #fff;
+  background-color: #000;
+}
+
+p {
+  font-size: 16px;
 }
 </style>

@@ -1,11 +1,15 @@
 <template>
   <AppHeader />
-  <AppStart />
+  <AppCover />
+  <main>
+    <AppAbout />
+  </main>
   <AppFooter />
 </template>
 
 <script setup lang="ts">
-import AppStart from '@/views/Start.vue';
+import AppCover from '@/components/Cover.vue';
+import AppAbout from '@/views/About.vue';
 
 import AppHeader from '@/components/Header.vue';
 import AppFooter from '@/components/Footer.vue';
