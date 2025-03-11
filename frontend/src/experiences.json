@@ -1,0 +1,25 @@
+[
+  {
+    "title": "Devoteam",
+    "startDate": "Sep 2020",
+    "endDate": "",
+    "onGoing": true,
+    "description": "During my time as a consultant at Devoteam, I have worked with clients such as Alstom and IKEA as a frontend developer, specializing in Vue, TypeScript, and state management libraries like Pinia and Vuex. Consulting has taught me to closely collaborate with clients and cross-functional teams to understand their needs, develop tailored solutions, and ensure seamless implementation. Working with tight deadlines has strengthened my ability to prioritize tasks, maintain efficiency, and consistently deliver high-quality results that align with project goals and business objectives.",
+    "assignments": [
+      {
+        "title": "Alstom",
+        "startDate": "Sep 2020",
+        "endDate": "Feb 2025",
+        "onGoing": false,
+        "description": "During my 4,5 years I’ve had a key role in heading the frontend development in the Alstom project forward. I've been responsible for breaking down, planning and leading features. This work has included gathering and coordinating with the right people like UX and backend in order to deliver quality features on time. I’ve also been responsible for onboarding multiple people and mentoring new developers to be able to succeed in their role on the Alstom project. In addition to this I've been the demo responsible in the team, demoing in the application and new features for stakeholders."
+      },
+      {
+        "title": "IKEA",
+        "startDate": "Mar 2025",
+        "endDate": "",
+        "onGoing": true,
+        "description": "I am currently involved in the future development of one of IKEA's internal tools, aimed at making it easier for users to manage products. In this project, I work with TypeScript, Vue, and Pinia, collaborating closely with another team at IKEA."
+      }
+    ]
+  }
+]

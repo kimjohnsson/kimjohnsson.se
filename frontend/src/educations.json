@@ -1,0 +1,16 @@
+[
+  {
+    "title": "Lernia Yrkeshögskola",
+    "startDate": "Aug 2018",
+    "endDate": "May 2020",
+    "onGoing": false,
+    "description": "Web development JavaScript"
+  },
+  {
+    "title": "NTI Gymnasiet",
+    "startDate": "Aug 2014",
+    "endDate": "Jun 2017",
+    "onGoing": false,
+    "description": "Technology Program, Information and Media Technology"
+  }
+]
