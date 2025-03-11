@@ -16,6 +16,7 @@
 header {
   position: fixed;
   width: 100%;
+  background-color: rgba(0, 0, 0, 0.9);
 }
 
 ul {
@@ -24,7 +25,7 @@ ul {
 }
 
 li {
-  margin: 1em;
+  margin: 0.5em 1em;
 }
 
 a {
